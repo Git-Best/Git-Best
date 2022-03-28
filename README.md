@@ -42,7 +42,7 @@
 <p align="left">
   
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Git-Best&show_icons=true&theme=radical"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Git-Best&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></img>
 </p>
 
 
